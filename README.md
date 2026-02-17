@@ -2,8 +2,7 @@
 # João Gabriel
 
 Desenvolvedor Back-End | Java • Spring • SQL  
-Expandindo atuação para desenvolvimento web
-
+Estudando: HTML, CSS e JavaScript
 ---
 
 ### Contato
