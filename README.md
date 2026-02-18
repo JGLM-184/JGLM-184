@@ -1,8 +1,10 @@
 
 # João Gabriel
 
-Desenvolvedor Back-End | Java • Spring • SQL  
-Estudando: HTML, CSS e JavaScript
+#### Desenvolvedor Back-End | Java • Spring • SQL  
+<p>
+  Estudando: HTML, CSS e JavaScript
+</p>
 ---
 
 ### Contato
