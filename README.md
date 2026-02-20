@@ -5,7 +5,6 @@
 <p>
   Estudando: HTML, CSS e JavaScript
 </p>
----
 
 ### Contato
 
@@ -23,15 +22,6 @@
 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse)]()
-
-
----
-
-### Estatísticas do GitHub
-![JGLM-184 GitHub stats](https://github-readme-stats.vercel.app/api?username=JGML-184&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGLM-184&layout=compact)
-
 
 ---
 
