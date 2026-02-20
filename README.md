@@ -3,7 +3,7 @@
 
 #### Desenvolvedor Back-End | Java • Spring • SQL  
 <p>
-  Estudando: HTML, CSS e JavaScript
+  Estudando: HTML CSS
 </p>
 
 ### Contato
