@@ -19,6 +19,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)]()
 
+**Front-End**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)]()
+
 **Ferramentas**
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse)]()
