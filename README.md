@@ -1,9 +1,8 @@
-
 # João Gabriel
 
-#### Desenvolvedor Back-End | Java • Spring • SQL  
+#### Desenvolvedor Back-End Java | Spring Boot • SQL • Docker
 <p>
-  Estudando: HTML CSS
+  Estudando: Arquitetura de Microsserviços, Testes de Integração e Observabilidade (Prometheus & Grafana)
 </p>
 
 ### Contato
@@ -13,27 +12,34 @@
 
 ---
 
-### Tecnologias
+### Tecnologias e Ferramentas
 
-**Back-End**
+**Back-End & Banco de Dados**
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql)]()
 
-**Front-End**
+**Ferramentas & Infraestrutura**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,idea)]()
 
-**Ferramentas**
+**Front-End (Básico)**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)]()
 
 ---
 
 ### Sobre mim
 
-Desenvolvedor de software com foco em back-end (Java, Spring e SQL), concluinte do curso de Análise e Desenvolvimento de Sistemas pela Fatec Guarulhos.
+Desenvolvedor Java focado no ecossistema Back-End, graduado em Análise e Desenvolvimento de Sistemas pela Fatec Guarulhos. 
 
-Experiência em projetos acadêmicos e estágio na instituição, atuando na manutenção e melhoria de softwares implantados.
+Possuo experiência prática na manutenção, evolução e documentação de sistemas de software, atuando desde a modelagem de bancos de dados relacionais até a implementação de regras de negócio e melhorias de segurança. 
 
-Atualmente expandindo atuação para o desenvolvimento web, com foco em evoluir para uma visão completa do ciclo de desenvolvimento de software.
+Atualmente, dedico-me à construção de APIs RESTful robustas com Spring Boot 3, aplicando padrões de Clean Code, SOLID, pirâmide de testes **(JUnit 5/Mockito/TestRestTemplate)** e automação de ambientes com **Docker**.
 
+---
+
+### Formação Acadêmica
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+* Faculdade de Tecnologia de Guarulhos (Fatec GRU)
+* Concluído em 06/2026
