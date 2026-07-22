@@ -1,8 +1,8 @@
-# João Gabriel
+# João Gabriel Moraes
 
 #### Desenvolvedor Back-End Java | Spring Boot • SQL • Docker
 <p>
-  Estudando: Arquitetura de Microsserviços, Testes de Integração e Observabilidade (Prometheus & Grafana)
+  Estudando: Arquitetura de Microsserviços, Mensageria (Kafka) e AWS
 </p>
 
 ### Contato
