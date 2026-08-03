@@ -20,7 +20,7 @@
 
 **Ferramentas & Infraestrutura**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,idea)]()
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,postman,idea)]()
 
 **Front-End (Básico)**
 
